@@ -19,7 +19,8 @@ The script run_analysis.R creates a tidy data set by doing:
 - Uses descriptive activity names to name the activities in the data set
 - Labels the data set with descriptive variable names
 - Take the average of each variable for each activity and each subject
-
+Finally, we obtain the tydydata.txt.
+For more information and variables description look CodeBook.md
 
 
 
